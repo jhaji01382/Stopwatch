@@ -1,4 +1,4 @@
-// Code is written by CHIRAG RAJ
+
 let btn1 = document.getElementById("start_btn");
 let btn2 = document.getElementById("stop_btn");
 let btn3 = document.getElementById("reset_btn");
